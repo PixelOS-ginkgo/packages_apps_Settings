@@ -349,4 +349,8 @@
     <!-- 4G icon -->
     <string name="show_fourg_icon_title">4G icon</string>
     <string name="show_fourg_icon_summary">Display 4G icon in signal icon instead LTE</string>
+
+    <!-- Hide developer status -->
+    <string name="hide_developer_status_title">Hide developer status</string>
+    <string name="hide_developer_status_summary">Hide developer status from apps</string>
 </resources>
